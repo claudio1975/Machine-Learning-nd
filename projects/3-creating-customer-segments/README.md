@@ -1,6 +1,7 @@
-Project 3: Unsupervised Learning
+## Project 3: Unsupervised Learning
 
-Creating Customer Segments
+# Creating Customer Segments
+
 Install
 This project requires Python 2.7 and the following Python libraries installed:
 NumPy
