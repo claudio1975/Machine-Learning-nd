@@ -2,12 +2,8 @@
 
 Udacity's Machine Learning Nanodegree project files.
 This repository contains project files for Udacity's Machine Learning Engineer Nanodegree program.
-The Machine Learning Engineer Nanodegree is an online certification. It involves
-Courses in supervised learning, unsupervised learning and reinforcement learning and
-Six projects (p0-p5 in this directory).
 
-
-Program:
+Extra-Program:
 Exploratory Project: Titanic Survival Exploration
 
 Model Evaluation and Validation 
